@@ -14,6 +14,6 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - 팩토리 패턴, 탬플릿 메소드 패턴
 
 ## 4주차 
-
 - 토비 3장 끝까지
+- 옵저버 
 - [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
