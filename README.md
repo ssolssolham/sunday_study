@@ -19,6 +19,7 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - 옵저버 
 - [[medium] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [[medium] binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [[easy] symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
 
 ## 5주차 
 - 
