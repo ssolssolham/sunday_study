@@ -68,4 +68,28 @@ class A {
 		return returnList;
 		
     }
+    
+    public List<Integer> preOrderTraversal(TreeNode root) {
+        
+    	List<Integer> returnList = new ArrayList<Integer>();
+    	Stack<TreeNode> st = new Stack<TreeNode>();
+    	
+    	st.add(root);
+    	
+    	while(!st.isEmpty()) {
+    		TreeNode node = st.pop();
+    		returnList.add(node.val);
+    		
+    		if(node.right != null) {
+    			st.add(node.right);
+    		}
+    		
+    		if(node.left != null) {
+    			st.add(node.left);
+    		}
+    	}
+    	
+		return returnList;
+		
+    }
 }
