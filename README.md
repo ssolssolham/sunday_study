@@ -23,7 +23,7 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - [[easy] symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
 - db partitioning (대용량 데이터가 있을때 어떻게 정리하나)
 - db 조인에 종류와 방식 설명
-- gc java 1.6 1.8차이
+- gc java 6, 8차이
 - restApi 
 
 ## 5주차
