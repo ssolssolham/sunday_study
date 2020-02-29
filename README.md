@@ -16,8 +16,8 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 
 ## 4주차 
 - 토비 3장 끝까지
-- 옵저버 
-- Tree
+- 옵저버 패턴
+- Tree 
 - [[medium] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [[medium] binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [[easy] symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
