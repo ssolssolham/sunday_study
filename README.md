@@ -12,6 +12,7 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 ## 3주차 
 - 토비 3장 반
 - 팩토리 패턴, 탬플릿 메소드 패턴
+- [remove-element](https://leetcode.com/problems/remove-element/)
 
 ## 4주차 
 - 토비 3장 끝까지
