@@ -2,6 +2,7 @@ package practice;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 public class Solution {
 	
@@ -40,5 +41,31 @@ class A {
    		inorderTraversal(root.right);
     	
     	return list;
+    }
+    
+    public List<Integer> inorderTraversal2(TreeNode root) {
+        
+    	List<Integer> returnList = new ArrayList<Integer>();
+    	Stack<TreeNode> st = new Stack<TreeNode>();
+    	
+    	TreeNode leftNode = root;
+    	while(leftNode != null) {
+    		st.add(leftNode);
+    		leftNode = leftNode.left;
+    	}
+    	
+    	while(!st.isEmpty()) {
+    		TreeNode rightNode = st.pop();
+    		returnList.add(rightNode.val);
+    		
+    		rightNode = rightNode.right;
+    		while(rightNode != null) {
+    			st.add(rightNode);
+    			rightNode = rightNode.left;
+    		}
+    	}
+    	
+		return returnList;
+		
     }
 }
