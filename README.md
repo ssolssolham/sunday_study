@@ -21,6 +21,10 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - [[medium] Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 - [[medium] binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [[easy] symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
+- db partitioning (대용량 데이터가 있을때 어떻게 정리하나)
+- db 조인에 종류와 방식 설명
+- gc java 1.6 1.8차이
+- restApi 
 
 ## 5주차
 - DFS
