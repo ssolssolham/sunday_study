@@ -27,6 +27,8 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - restApi 
 
 ## 5주차
+- 토비 4장 끝까지
+- 빌더 패턴 공부해오기 (책에는 없음)
 - DFS
 - [[medium] construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [[easy] validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
