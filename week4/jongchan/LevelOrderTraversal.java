@@ -11,12 +11,11 @@ public class LevelOrderTraversal {
     private static List<List<Integer>> leverOrder(TreeNode node) {
         List<List<Integer>> result = new ArrayList<>();
         Deque<TreeNode> queue = new ArrayDeque<>();
+        List<Integer> levelList = new ArrayList<>();
 
         int inputCountFromLevel = 0;
         queue.add(node);
         while (!queue.isEmpty()) {
-            List<Integer> levelList = new ArrayList<>();
-
             for (int i = 0; i < Math.pow(2, inputCountFromLevel); i++) {
                 TreeNode currentFirst = queue.pop();
                 levelList.add(currentFirst.val);
