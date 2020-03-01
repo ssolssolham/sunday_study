@@ -33,6 +33,5 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - [[medium] construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [[easy] validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - 7,500원 
-- nl 조인 성능 관련 이슈
-- 랜덤 엑세스
-- 파티셔닝
+- nl 조인 성능 관련 이슈, 랜덤 엑세스, 파티셔닝
+- Strong Weakness reference
