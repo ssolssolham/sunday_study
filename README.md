@@ -32,3 +32,4 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - DFS
 - [[medium] construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
 - [[easy] validate-binary-search-tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- 7,500원 
