@@ -35,3 +35,9 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - 7,500원 
 - nl 조인 성능 관련 이슈, 랜덤 엑세스, 파티셔닝
 - Strong Weakness reference
+
+## 6주차
+- [[easy] Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)
+- [[medium] Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [[medium] Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+
