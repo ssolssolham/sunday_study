@@ -67,15 +67,14 @@ class Solution {
     		leftNode = leftNode.left;
     	}
     	
-    	double inorder = - Double.MAX_VALUE;
+    	double pre = - Long.MAX_VALUE;
     	while(!st.isEmpty()) {
     		TreeNode node = st.pop();
     		
-    		System.out.println(node.val);
-    		if( node.val <= inorder) {
+    		if( node.val <= pre) {
     			return false;
     		}
-    		inorder = node.val;
+    		pre = node.val;
     		
     		TreeNode rightNode = node.right;
     		while(rightNode != null) {
