@@ -41,3 +41,6 @@ Toby's Spring &amp; Algorithm &amp; Interview &amp; Design Pattern
 - [[medium] Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [[medium] Network Delay Time](https://leetcode.com/problems/network-delay-time/)
 
+## 7주차
+- [[medium] Single Number (https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/)
+- [[medium] Happy Number (https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3284/)
